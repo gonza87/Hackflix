@@ -1,0 +1,23 @@
+.poster{
+    width: 250px;
+    height: 350px;
+    background-size: contain;
+    border-radius: 5%;
+   
+}
+.raiting{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px){
+    .poster{
+        width: 200px;
+        height: 300px;
+        background-size: contain;
+        border-radius: 5%;
+       
+    }
+}

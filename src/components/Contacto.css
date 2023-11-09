@@ -1,0 +1,12 @@
+@media (max-width: 768px){
+
+.mapa{
+    width: 370px;
+    height: 125px;
+    margin-bottom: 95px;
+}
+
+.cajacontacto{
+    margin-top: 50px;
+}
+}

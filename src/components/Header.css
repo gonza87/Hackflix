@@ -1,0 +1,19 @@
+.fondoNav{
+    background-color: #252537;
+  
+    
+}
+
+.contenedorNav a{
+    color: white;
+}
+
+
+.contenedorNav a:hover{
+    color: rgb(245, 18, 18);
+}
+
+.hackFlix, .sobreNosotros, .contacto, .search  {
+    text-decoration: none;
+}
+

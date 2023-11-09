@@ -1,0 +1,13 @@
+*{
+    color: white;
+}
+
+.loading{
+    color: yellow;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.textnoexiste{
+    font-size: xx-large;
+}
